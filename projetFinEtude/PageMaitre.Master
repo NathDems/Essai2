@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PageMaitre.master.cs" Inherits="projetFinEtude.PageMaitre" %>
+
+<!DOCTYPE html>
+
+<html>
+
+ 
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+     <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="Scripts/jquery-3.0.0.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+</head>
+<body style="background-color: #F0F8FF AliceBlue; background-attachment:fixed;">
+   
+
+    <div class="container" style="border: 3px outset;height:800px inherit:linear-gradient(white, black)";>
+        <section class="container">
+            <div class="row">
+                <div>
+                    <article class="col-lg-4">
+                        <img src="Content/images/logo_cp.jpg" alt="Bootstrap" class="card-img-responsive">
+                    </article>
+                </div>
+                <article class="col-lg-8">
+                    <div class="container-fluid" style="border: 3px inset;height:120px; text-align:center; background-image:linear-gradient(green);">
+                        <h4 class="text-primary"> Votre solution logicielle qui vous accompagne dans l'acquisition de votre proprieté</h4>
+                    </div>
+                </article>
+            </div>
+        </section> 
+
+
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="row">
+                        <div class="col-lg-4">
+                             
+                            <div class="col-lg-4">
+                            <a href="Default.aspx" runat="server"><button type="button" class="btn btn-success active">sites</button> </a>
+                            
+                        </div>
+                            
+                        </div>
+                        <div class="col-lg-4">
+                            <a href="ListeProprietes.aspx" runat="server"><button type="button" class="btn btn-primary active">Proprietés choisies</button></a>
+
+                        </div> 
+                        <div class="col-lg-4">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="Agenda.aspx" runat="server"><button type="button" class="btn btn-success active"> Mon Agenda</button></a>
+                        </div>
+                    </div>
+                </div>                         
+            </div>
+        </div>
+    
+        <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">
+ 
+        </asp:ContentPlaceHolder>
+
+    </div>
+        
+
+            <footer class="page-footer font-small blue pt-4">
+                <div class="footer-copyright text-center py-3">
+                    © Courtier Personnel 2019 Copyright...
+                </div>
+            </footer>
+</body>
+</html>

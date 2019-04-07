@@ -1,0 +1,6 @@
+﻿5
+1|https://www.realtor.ca/immobilier/20433709/1-2-chambre-unifamiliale-unifamilial-173-castlefrank-road-ottawa|173 CASTLEFRANK ROAD, Ottawa |329000|335000|1974|2019-03-16 00:00:00|Jennifer Chamberlain|Realtor|False|False|0|Prop2.jpg|unifamilial, 3 chambres, 2 salles de bain
+2|https://www.realtor.ca/immobilier/20433709/1-2-chambre-unifamiliale-unifamilial-173-castlefrank-road-ottawa|20 DUNVEGAN RD, OTTAWA, ON, K1K 3E9|1350000|1335000|1999|2019-03-17 00:00:00|NATALIE BELOVIC|Remax|False|False|0|Prop3.jpg|Bungalow, 4 chambres, 4 salles de bain
+5|https://www.remax.ca/on/ottawa-real-estate/27-seguin-street-wp_id234225777-lst|27 Séguin St Ottawa, ON, K1J 6P4|699900|620000|1980|2019-03-28 00:00:00| |Remax|True|False|0|Prop5.jpg|unifamilial, 6 chambres, 3 salles de bain
+3|https://www.realtor.ca/real-estate/20480182/4-2-bedroom-single-family-house-1678-barrington-street-ottawa-chateauneuf-orleans?|1678 BARRINGTON STREET Ottawa, Ontario|539900|530000|1985|2019-03-28 00:00:00|Anne Scharf|Realtor|True|False|0|Prop3.jpg|unifamilial, 6 chambres, 4 salles de bain
+4|https://www.remax.ca/on/ottawa-real-estate/2630-flannery-drive-wp_id234841888-lst|2630 Flannery Dr Ottawa, ON, K1V 8M2|449900|400000|1962|2019-03-28 00:00:00| |Remax|True|False|0|Prop4.jpg|unifamilial, 4 chambres, 2 salles de bain
